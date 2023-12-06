@@ -90,3 +90,13 @@ This is the First one, and I also set him/her in a department I added.
 This is the second one, I set him/her in a department I added and I'll add him to the support team.
 </p>
 <br />
+
+<h2>SLA Configuration</h2>
+<p>
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/bbb36339-5fed-4cc5-a4d4-9b8b1e2158cb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+This is the part where I set up the SLA configurations according to how sever the problem is.
+<li>SEV-A (Grace period is 1 hour within a 24/7 scedual)
+<li>SEV-B (Grace period within a 4 hour window within a 24/7 scedual)
+<li>SEV-C (Grace period of 8 hours within a 9/5 scedual)
+</p>
