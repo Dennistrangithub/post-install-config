@@ -100,3 +100,27 @@ This is the part where I set up the SLA configurations according to how sever th
 <li>SEV-B (Grace period within a 4 hour window within a 24/7 scedual)
 <li>SEV-C (Grace period of 8 hours within a 9/5 scedual)
 </p>
+
+<h2>Help Desk Topics</h2>
+<p>
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/730dcbc0-6360-4508-8d62-9cdfa0d93355" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+This is where I added topic users can pick and choose between each different promblem they have and to be able to add the topic on thier ticket. I've alse added thier priorites and thier level of SLA importance.
+  (highlighted ones are ones that I added and configured, the rest are default)
+</p>
+
+<h1>osTicket - Post-Install Configuration (Conclusion) </h1>
+The post-installation configuration of osTicket has been a comprehensive and enlightening experience. This process included crucial steps like Roles Configuration, Department Setup, Agent Setup, SLA Configuration, and Help Topics Setup. Each of these objectives played a vital role in ensuring the osTicket system was tailored to meet the specific needs of our support structure.
+
+Through Roles Configuration, I learned the importance of clearly defining permissions and access levels for different users within the system. This step was crucial in maintaining an organized and secure support environment.
+
+In setting up Departments, the experience highlighted the need for structured segmentation of support areas. This organization allows for more efficient handling of tickets and better allocation of resources.
+
+Agent Setup provided insights into the significance of correctly assigning roles and departments to each agent. This ensures that every support query is directed to the right individual with the relevant expertise.
+
+SLA Configuration was a key learning area, emphasizing the importance of establishing clear expectations for response and resolution times. This step is vital in maintaining customer satisfaction and trust.
+
+Lastly, developing Help Topics was a lesson in resource management and user self-service. By providing easily accessible information, we can reduce the volume of support tickets and empower users to find solutions independently.
+
+Overall, this journey through the post-installation configuration of osTicket has not only equipped me with practical skills in setting up a support ticket system but also provided valuable insights into the principles of effective IT support management.
+
