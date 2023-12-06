@@ -21,14 +21,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <ul>
   <li>Roles Configuration</li>
   <li>Department Setup</li>
+  <li>Team Setup</li>
   <li>Agent Setup</li>
   <li>SLA Configuration</li>
   <li>Help Topics Setup</li>
 </ul>
 
-<h2>Configuration Steps</h2>
+<h2>Role Configuration</h2>
 
-<h3>Roles Configuration</h3>
 <p>
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/ba399b04-9689-4101-88cf-6a32ccd89bd9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -45,10 +45,24 @@ Adding Supreme admin as a new role and giving the role all permissions
 </p>
 <br />
 
+<h2>Department Setup</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/c8eaa557-7974-45d6-ba3c-0d19e624ab9b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/3eddc129-977b-4e5c-9821-afc2f16b1cad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I go to the department panel and add a new department called "System Administrators"
+</p>
+<br />
+
+<h2>Team Setup</h2>
+<p>
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/1646e110-4231-457e-bcb0-43ff5b256f72" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/4d2d6b06-4757-48af-8786-784f183221a4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+
 </p>
 <br />
