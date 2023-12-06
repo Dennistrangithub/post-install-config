@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/ba399b04-9689-4101-88cf-6a32ccd89bd9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I go to the Admin panel and make a new role for supreme admins
+I accessed the Admin Panel in osTicket to create a new role named 'Supreme Admin.' This role is intended to have the highest level of access in the system. I set up the Supreme Admin with permissions that allow complete control over all areas of the ticketing system, including user and ticket management, as well as system settings. The aim was to ensure this role could manage everything smoothly while keeping the system secure.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ I go to the Admin panel and make a new role for supreme admins
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/b5dcfff1-0939-47b5-ac95-b425e0dfdae4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Adding Supreme admin as a new role and giving the role all permissions
+I added 'Supreme Admin' as a new role in osTicket through the Admin Panel. This role was given all permissions, ensuring complete access and control over the entire system.
 </p>
 <br />
 
@@ -52,7 +52,7 @@ Adding Supreme admin as a new role and giving the role all permissions
 
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/3eddc129-977b-4e5c-9821-afc2f16b1cad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-I go to the department panel and add a new department called "System Administrators"
+I navigated to the Department Panel in osTicket and created a new department named 'System Administrators.
 </p>
 <br />
 
@@ -63,7 +63,7 @@ I go to the department panel and add a new department called "System Administrat
 
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/4d2d6b06-4757-48af-8786-784f183221a4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-I continue to create teams within the Ticketing System such as "Support II"
+I proceeded to create teams in the Ticketing System, including one named 'Support II.
 </p>
 <br />
 
@@ -74,8 +74,7 @@ I continue to create teams within the Ticketing System such as "Support II"
 
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/317599b0-25f2-446e-9aaa-3a7405b5cf3d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-Now I create team members within the system and assign them to different departments.
-This is the First one, and I also set him/her in a department I added.
+I then created team members within the system and assigned them to various departments. The first team member was added and specifically assigned to one of the newly created departments
 </p>
 <br />
 
@@ -87,7 +86,7 @@ This is the First one, and I also set him/her in a department I added.
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/1a3bd1fe-09c2-41ae-9cbc-263f0d0257b7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/993ed4c7-7ca7-41ed-8232-381c1fb72242" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-This is the second one, I set him/her in a department I added and I'll add him to the support team.
+For the second team member, I assigned them to a department I had previously added and also included them in the support team
 </p>
 <br />
 
@@ -95,7 +94,7 @@ This is the second one, I set him/her in a department I added and I'll add him t
 <p>
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/bbb36339-5fed-4cc5-a4d4-9b8b1e2158cb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-This is the part where I set up the SLA configurations according to how sever the problem is.
+At this stage, I configured the SLA settings in osTicket, tailoring them based on the severity of the problems reported.
 <li>SEV-A (Grace period is 1 hour within a 24/7 scedual)
 <li>SEV-B (Grace period within a 4 hour window within a 24/7 scedual)
 <li>SEV-C (Grace period of 8 hours within a 9/5 scedual)
@@ -105,8 +104,7 @@ This is the part where I set up the SLA configurations according to how sever th
 <p>
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/730dcbc0-6360-4508-8d62-9cdfa0d93355" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-This is where I added topic users can pick and choose between each different promblem they have and to be able to add the topic on thier ticket. I've alse added thier priorites and thier level of SLA importance.
-  (highlighted ones are ones that I added and configured, the rest are default)
+In this phase, I added selectable help topics to osTicket, allowing users to specify their particular issues when submitting tickets. Each topic was assigned a priority level and an SLA importance. The highlighted topics are those I personally added and configured, while the others are the default ones included in the system.
 </p>
 
 <h1>osTicket - Post-Install Configuration (Conclusion) </h1>
