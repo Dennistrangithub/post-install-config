@@ -63,6 +63,30 @@ I go to the department panel and add a new department called "System Administrat
 
 <img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/4d2d6b06-4757-48af-8786-784f183221a4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
+I continue to create teams within the Ticketing System such as "Support II"
+</p>
+<br />
 
+<h2>Member Setup</h2>
+<p>
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/5ec82e41-7822-4c43-94df-46b8a90d2369" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/317599b0-25f2-446e-9aaa-3a7405b5cf3d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+Now I create team members within the system and assign them to different departments.
+This is the First one, and I also set him/her in a department I added.
+</p>
+<br />
+
+<h3>2nd Person</h3>
+<p>
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/a1c5e416-ca5f-45d0-ac49-5105aa83de39" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/1a3bd1fe-09c2-41ae-9cbc-263f0d0257b7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Dennistrangithub/post-install-config/assets/152820266/993ed4c7-7ca7-41ed-8232-381c1fb72242" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+This is the second one, I set him/her in a department I added and I'll add him to the support team.
 </p>
 <br />
